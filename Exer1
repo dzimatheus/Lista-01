@@ -1,0 +1,14 @@
+public class Exercicio1 {
+    public static void main(String[] args){
+        int i = 5;
+        float j = 2;
+        double k = 3.14;
+        char c = 'g';
+        boolean b = true;
+        System.out.println("o valor de i " + i);
+        System.out.println("o valor de j " + j);
+        System.out.println("ovalor de k " + k);
+        System.out.println("o valor de c " + c);
+        System.out.println("o valor de b " + b);
+    }
+}
