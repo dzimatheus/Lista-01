@@ -1,0 +1,11 @@
+public class Exercicio5 {
+    public static void main(String[] args){
+        int n = 5;
+        int fat = 1;
+        while (n != 1){
+            fat = fat * n;
+            System.out.println(fat);
+            n--;
+        }
+    }
+}
